@@ -17,7 +17,7 @@ To run or modify the backtesting script, navigate through the following path:
 
 ### Running the Backtest
 
-To run the backtest, navigate to the `source` directory and execute the `backtest.py` script:
+To run the backtest, navigate to the `source` directory, set up the envrionemnt, and execute the `backtest.py` script:
 
 ```bash
 cd Project/IBJts/source
