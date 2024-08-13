@@ -6,15 +6,6 @@ This project integrates Interactive Brokers (IB) with Backtrader, a popular Pyth
 
 The code is organized in the following directory structure:
 
-Project/
-│
-├── IBJts/
-│   ├── source/
-│   │   └── backtest.py
-│   └── ...
-└── ...
-
-
 ### Path to `backtest.py`
 
 To run or modify the backtesting script, navigate through the following path:
